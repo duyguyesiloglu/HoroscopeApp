@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; configuration.title = "BACK"; ObjectID = "DU9-eg-ghY"; */
+"DU9-eg-ghY.configuration.title" = "GERİ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DU9-eg-ghY"; */
+"DU9-eg-ghY.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "horoscope reading!"; ObjectID = "PRn-hc-8In"; */
+"PRn-hc-8In.text" = "burcunuzu seçin!";
+
+/* Class = "UIButton"; configuration.title = "TAROT"; ObjectID = "X2R-rC-OfV"; */
+"X2R-rC-OfV.configuration.title" = "TAROT";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "X2R-rC-OfV"; */
+"X2R-rC-OfV.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "NEXT"; ObjectID = "Xvy-UZ-pJP"; */
+"Xvy-UZ-pJP.configuration.title" = "İLERİ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xvy-UZ-pJP"; */
+"Xvy-UZ-pJP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Choose your sign for a daily "; ObjectID = "YEW-eb-kyQ"; */
+"YEW-eb-kyQ.text" = "Günlük astrolojik yorumunuz için";
